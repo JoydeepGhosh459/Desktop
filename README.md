@@ -1,2 +1,10 @@
-# Desktop
-R and Python Libraries
+# Python Libraries
+
+keras
+
+tensorflow
+
+xgboost
+
+
+
